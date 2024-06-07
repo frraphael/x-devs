@@ -146,4 +146,7 @@ body {
   .btn-arrow#btn-next {
     transform: rotate(90deg);
   }
+  .header {
+    padding: 30px 0;
+  }
 }
