@@ -132,13 +132,16 @@ body {
 }
 
 @media (max-width: 600px) {
+  .header h1 {
+    font-size: 35px;
+  }
   .character-slider {
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
   }
   .btn-arrow {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
   }
   .btn-arrow#btn-previous {
     transform: rotate(270deg);
@@ -147,6 +150,6 @@ body {
     transform: rotate(90deg);
   }
   .header {
-    padding: 30px 0;
+    padding: 10px 0;
   }
 }
