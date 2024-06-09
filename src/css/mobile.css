@@ -1,5 +1,4 @@
 @media (max-width: 768px) {
-
   .header {
     padding: 10px;
   }
@@ -22,12 +21,7 @@
     flex-shrink: 0;
     box-sizing: border-box;
     transition: transform 0.3s ease;
-
-  }
-
-
-  .card {
-    width: 100%; /* Full width for mobile */
+    width: 100%;
   }
 
   .btn-arrow {

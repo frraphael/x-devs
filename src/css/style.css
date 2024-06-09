@@ -36,7 +36,6 @@
 
   .card {
     opacity: 0;
-    height: 100%;
     position: absolute;
     transition: opacity 0.3s ease-in-out;
   }
